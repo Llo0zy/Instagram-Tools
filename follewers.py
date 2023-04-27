@@ -1,9 +1,9 @@
 #-----#-----#-----#-----#-----#-----#-----#-----#-----#-----#
 
-nombre = 'adios_cuenta_bb'
-contra = "#w7v2kPmG@?//[64}¡ jan^t"
+nombre = 'USERNAME'
+contra = "PASSWORD"
 
-tofllw = 'alcasec'
+tofllw = 'INFLUNSER' # Will follow all followers of tofllw
 
 #-----#-----#-----#-----#-----#-----#-----#-----#-----#-----#
 
